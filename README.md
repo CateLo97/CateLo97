@@ -5,8 +5,8 @@
 ---
 
 ## 💻 **Habilidades técnicas**  
-- Desarrollo de sitios web con **HTML**, **CSS**, **JavaScript** y diseño responsivo utilizando **Bootstrap**.  
-- Fundamentos sólidos en **estructuras de datos** y **algoritmos** para resolver problemas de manera eficiente.  
+- Estoy aprendiendo a desarrollar sitios web con **HTML**, **CSS**, **JavaScript** y diseño responsiv utilizando **Bootstrap**.  
+- Fundamentos en **estructuras de datos** y **algoritmos** para resolver problemas de manera eficiente.  
 - Gestión de versiones con **Git**.  
 - Actualmente aprendiendo **React** para crear interfaces de usuario dinámicas e interactivas y **Node.js** para el desarrollo backend.  
 
